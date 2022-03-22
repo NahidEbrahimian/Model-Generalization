@@ -1,2 +1,3 @@
 # CIFAR-10
-Model generalization on CIFAR-10 dataset
+
+Model generalization and accuracy higher than 90% on CIFAR-10 dataset
